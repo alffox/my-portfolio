@@ -9,11 +9,9 @@ hr {
     color: #7d97ad;
 }
 
-.bio-intro {
-    margin-top: 20px;
-    color: white;
-    background: #829356;
-    border-radius: 20px;
+.site-logo {
+    margin-top: 40px;
+    width: 10vw;
 }
 
 .bio-header {
@@ -21,6 +19,13 @@ hr {
     background-color: gray;
     margin: 0;
     padding: 10px 5px;
+}
+
+.bio-intro {
+    margin-top: 20px;
+    color: white;
+    background: #829356;
+    border-radius: 20px;
 }
 
 .bio-horizontal-ruler {
@@ -48,9 +53,4 @@ hr {
 
 .title-super {
     font-size: 60px;
-}
-
-.site-logo {
-    margin-top: 40px;
-    width: 10vw;
 }

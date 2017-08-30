@@ -1,0 +1,64 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color: #2d3c49;
+    font-weight: 300;
+}
+
+hr {
+    border: 2px solid;
+    color: #7d97ad;
+}
+
+.bio-intro {
+    margin-top: 20px;
+    color: white;
+    background: #829356;
+    border-radius: 20px;
+}
+
+.bio-header {
+    color: white;
+    background-color: gray;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+
+.bio-horizontal-ruler {
+    height: 10px;
+    border: 0;
+    box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+.bio-image {
+    width: 20%;
+}
+
+.bio-facts,
+.bio-intro {
+    padding: 20px;
+}
+
+.text-muted {
+    color: #7d97ad;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.title-super {
+    font-size: 60px;
+}
+
+.site-logo {
+    margin-top: 40px;
+    width: 10vw;
+}
+
+.lricon {
+    position: relative;
+    max-width: 33.59px;
+}

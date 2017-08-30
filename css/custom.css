@@ -4,6 +4,7 @@ body {
     font-weight: 300;
 }
 
+/*Horizontal ruler*/
 hr {
     border: 2px solid;
     color: #7d97ad;
@@ -14,6 +15,7 @@ hr {
     width: 10vw;
 }
 
+/*Bio information*/
 .bio-header {
     color: white;
     background-color: gray;
@@ -43,6 +45,7 @@ hr {
     padding: 20px;
 }
 
+/*Text formatting*/
 .text-muted {
     color: #7d97ad;
 }

@@ -13,6 +13,8 @@ hr {
 .site-logo {
     margin-top: 40px;
     width: 10vw;
+    /*Add styling to prevent logo from being huge on IE8*/
+    max-width: 67.5px;
 }
 
 /*Bio information*/

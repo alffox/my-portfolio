@@ -1,5 +1,7 @@
 # portfolio
 
+The site is visible at: https://alffox.github.io/my-portfolio/
+
 Portfolio Site for the Udacity Front-End Web Developer nanodegree
 
 - Final Project of Part 2: "Responsive Websites"
